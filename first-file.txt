@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello ssafy 9th 첫째 수정
-=======
-hello ssafy 수정 cloned
->>>>>>> c7e402fc6d8676a7b4cc13bbf2aac00bf4c220b7
